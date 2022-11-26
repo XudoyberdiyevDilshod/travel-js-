@@ -1,5 +1,5 @@
 var userName = prompt('Ismingizni kiriting: ');
-var userMoney = prompt('Sizda qancha pul borligini kiriting(so\'mda kiriting):');
+var userMoney = prompt('Sayohat uchun sizda qancha pul borligini kiriting(so\'mda kiriting):');
 var forTicket = 500;
 var forHotel = 250;
 var forMuseum = 120;
